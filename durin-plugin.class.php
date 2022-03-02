@@ -36,7 +36,7 @@ class WP_Durin
             DURIN_DIR_NAME . '/durin-plugin-admin.php',
             '',
             plugins_url( '/assets/icon.png', __FILE__ ),
-            98
+            100
         );
     }
 }
