@@ -30,12 +30,12 @@ class WP_Durin
     // Add Stackspin Menu item and page in the dashboard menu
     public function durin_admin_page() {
         add_menu_page(
-            __( 'Stackspin', 'durin_plugin' ),
-            'Stackspin',
+            __( 'Durin', 'durin_plugin' ),
+            'Durin',
             'manage_options',
             DURIN_DIR_NAME . '/durin-plugin-admin.php',
             '',
-            plugins_url( '/assets/logo.png', __FILE__ ),
+            plugins_url( '/assets/icon.png', __FILE__ ),
             98
         );
     }

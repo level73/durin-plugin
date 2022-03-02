@@ -1,5 +1,5 @@
 <br />
-<img src="<?php echo  plugins_url( DURIN_DIR_NAME . '/assets/logo.svg'); ?>" alt="Project Durin Logo">
+<img src="<?php echo  plugins_url( DURIN_DIR_NAME . '/assets/logo_h80.png'); ?>" alt="Project Durin Logo">
 
 <h1>This Wordpress instance is powered by Stackspin</h1>
 
